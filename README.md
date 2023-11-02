@@ -24,6 +24,7 @@ Jeg har lavet programmet om til en command line interface.
 
 ## Flowcharts
 ##### Det gamle:
+![fodbold ting (1)](https://github.com/KneeCapStealer/fodboldtur/assets/87864377/e3e52cfc-3cb3-4191-8c9c-664f5f0f2cf2)
 
 ##### Det nye:
 ![fodbold ting](https://github.com/KneeCapStealer/fodboldtur/assets/87864377/a5edc7d5-45a6-44b4-a982-23d9433fa88d)
