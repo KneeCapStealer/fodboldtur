@@ -2,21 +2,22 @@
 Jeg har lavet programmet om til en command line interface.
 
 ## Kommandoer
-hjælp: Printer en liste af alle kommandoer
-list: Print liste af mennesker
+- hjælp: Printer en liste af alle kommandoer
 
-betal <fornavn> <efternavn> <mængde>: Betal en mængde penge
+- list: Print liste af mennesker
 
-fjern <fornavn> <efternavn>: fjern medlem og hans penge
+- betal <fornavn> <efternavn> <mængde>: Betal en mængde penge
 
-bund <nummer>: Print de <nummer> der mangler at betale mest
+- fjern <fornavn> <efternavn>: fjern medlem og hans penge
 
-top <nummer>: Print de <nummer> der har betalt mest
+- bund <nummer>: Print de <nummer> der mangler at betale mest
 
-clear | cls: sletter alt tekst i terminalen
+- top <nummer>: Print de <nummer> der har betalt mest
 
-gem: gemmer programmet
+- clear | cls: sletter alt tekst i terminalen
 
-autogem <sand/falsk>: slår autogem fra og til
+- gem: gemmer programmet
 
-slut: Stop program
+- autogem <sand/falsk>: slår autogem fra og til
+
+- slut: Stop program
